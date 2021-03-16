@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lato';
+}
+.background-navbar{
+    background-color: black;
+    opacity: 0.8;
+    
+}
+
+.rounded-pill{
+    border-radius: 5rem;
+    
+}
+.footer-bg{
+    background-color: #000;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
